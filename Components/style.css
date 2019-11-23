@@ -1,0 +1,46 @@
+
+.menu{
+    display: grid;
+    grid-template-columns: 2fr 2fr 1fr;
+    padding-top: 7px;
+    padding-left: 70px;
+}
+.course{
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows:  1fr 1fr 1fr;
+    grid-gap: 40px;
+}
+.footer{
+    background-color: lightblue;
+    padding-left: 12px;
+}
+.WelCourse{
+    text-align: center;
+}
+.img{
+  padding: 50px;
+  text-align: center;
+}
+.chat{
+    padding-top: 30px;
+}
+.prac{
+    padding-top: 20px;
+}
+.card{
+    padding: 15px;
+}
+.practise{
+    
+ padding-top: 140px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr ;
+    grid-gap: 70px;
+}
+.courses{
+    padding-top: 25px;
+    text-align: center
+}
